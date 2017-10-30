@@ -1,0 +1,28 @@
+{
+  "name": "alebot",
+  "version": "1.0.0",
+  "description": "Bot para a Assembleia Legislativa do Estado de Goias.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcserracampos/alebot.git"
+  },
+  "keywords": [
+    "bot;",
+    "botbuilder;",
+    "alego"
+  ],
+  "author": "Júlio Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcserracampos/alebot/issues"
+  },
+  "homepage": "https://github.com/jcserracampos/alebot#readme",
+  "dependencies": {
+    "botbuilder-teams": "^0.1.6",
+    "restify": "^6.2.3"
+  }
+}
